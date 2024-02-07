@@ -7,7 +7,9 @@
 
 # Books
 
-![Project Image](https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg)
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg"  height="300" />
+</p>
 
 ### Pengaturcaraan Web ASP. NET Menggunakan VB dan C#
 
