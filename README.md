@@ -19,6 +19,21 @@
 
 Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web dengan menggunakan teknologi ASP.NET. Teknologi ASP.NET merupakan rangka kerja pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Web Developer (MSVWD) yang diguna untuk menghasilkan laman web ASP.NET, kawalan piawai dan sintaks asas ASP.NET yang boleh digunakan oleh pengaturcara untuk menghasilkan laman web, struktur kawalan, rentetan, kawalan pengesahsahihan, pangkalan data, dan bahasa pertanyaan berstruktur. Selain itu, buku ini turut menyediakan banyak contoh atur cara, latihan pengaturcaraan, dan cara membangunkan aplikasi web yang melibatkan penggunaan pangkalan data bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web ASP.NET. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengaturcara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membina laman web menggunakan ASP.NET dengan mudah dan berkesan.
 
+
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Pembangunan-Aplikasi-Web-Menggunakan-ASP.NET_.jpg"  height="300" />
+</p>
+
+
+### Pembangunan Aplikasi Web menggunakan ASP.NET
+
+- **ISBN:** 978-983-52-0757-0
+- **Ketebalan:** 514
+- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pembangunan-aplikasi-web-menggunakan-asp-net/)
+
+Buku ini memberi pendedahan dan panduan kepada pembaca untuk membangunkan aplikasi web dengan menggunakan ASP.NET. ASP.NET merupakan bahasa pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Studio 2008 (MVS) yang digunakan untuk membangunkan aplikasi web dan penggunaan navigasi, tema dan Master Page bagi menghasilkan reka bentuk aplikasi web. Selain daripada itu, penerangan tentang pangkalan data, cara membangunkan pangkalan data, penggunaan data dalam pangkalan data, penghasilan laporan menggunakan Crystal Reports dan kawalan ReportViewer, penggunaan kawalan keselamatan, teknologi AJAX dan pemasangan aplikasi web pada pelayan web turut diterangkan dalam buku ini. Buku ini sesuai digunakan sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengatur cara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membangunkan aplikasi web menggunakan ASP.NET dengan mudah dan berkesan.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/mybooks/issues) for any improvements, suggestions or errors in the content.
 
