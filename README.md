@@ -81,7 +81,56 @@ Pangkalan data merupakan komponen utama yang penting dalam pembangunan sistem ma
 
 Organisasi maklumat bermula sebaik sahaja manusia mencipta bahasa dan menggunakannya bagi membolehkan maklumat disebarkan daripada seseorang kepada yang lain. Buku ini memberi penerangan menyeluruh mengenai bidang organisasi maklumat dengan memberi penekanan kepada maklumat atau pengetahuan yang telah pun direkod. Memandangkan maklumat boleh direkod dalam pelbagai jenis media, seseorang yang ingin memperolehi pengetahuan dan kemahiran mengorganisasi maklumat perlu mengetahui jenis, kegunaan dan keperluan untuk mengorganisasinya. Proses mengorganisasi sumber maklumat tidak lengkap jika tidak mengelaskannya. Menurut proses pengelasan, setiap bahan diberi satu nombor unik untuk menentukan lokasinya di rak. Buku ini turut mengenal pasti prinsip utama dan amalan berhubung dengan mendeskripsikan sumber maklumat. Prinsip asas klasifikasi terutamanya bagaimana mengkategori sumber maklumat mengikut bidang pengetahuan dan subjek khusus turut dibincangkan. Aspek lain seperti proses pengindeksan automatik dan pengorganisasian fail juga dihuraikan. Beberapa cadangan untuk memperbaiki sistem dalam talian turut dikemukakan. Antaranya aspek reka bentuk sistem sebagai penghubung rekod metadata untuk pakej maklumat yang ada dalam satu-satu domain.
 
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-Hypertext-Preprocessor-PHP.jpg"  height="300" />
+</p>
 
+### Pengaturcaraan Web Hypertext Preprocessor (PHP)
+
+- **ISBN:** 983-52-0405-5
+- **Ketebalan:** 354
+- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-hypertext-preprocessor-php/)
+
+Buku ini memperkenalkan kepada pembaca tentang asas pengaturcaraan web dalam Hypertext Preprocessor (PHP). Perbincangan awal dimula dengan memperkenalkan teknologi web dan perisian sumber terbuka. Kemudiannya, diikuti pengenalan kepada PHP yang merangkumi konsep, sejarah dan keperluan asas sebelum menulis atur cara PHP. Selain itu, terdapat beberapa bab yang menghuraikan pelbagai elemen bahasa pengaturcaraan. Antaranya struktur kawalan, fungsi, rentetan, dan tatasusunan. Bab akhir buku ini pula menerangkan tentang cara membangunkan aplikasi web menggunakan PHP, iaitu sistem penjanaan nombor dan variasi rawak. Buku ini juga turut menyediakan contoh atur cara dan latihan pengaturcaraan bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, kepada pengaturcara yang ingin mempelajari bahasa penulisan skrip PHP dengan lebih mendalam, serta pembaca umum yang berminat untuk mengenali PHP dan ingin mempelajari asas pengaturcaraan web dengan mudah dan berkesan.
+
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.NET_.jpg"  height="300" />
+</p>
+
+![Project Image](assets/images/buku/Pengaturcaraan-Web-ASP.NET_.jpg)
+
+### Pengaturcaraan Web ASP.NET
+
+- **ISBN:** 978–983–52–0736–5
+- **Ketebalan:** 430
+- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net/)
+
+Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web dengan menggunakan teknologi ASP.NET. Teknologi ASP.NET merupakan rangka kerja pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Web Developer (MSVWD) yang diguna untuk menghasilkan laman web ASP.NET, kawalan piawai dan sintaks asas ASP.NET yang boleh digunakan oleh pengaturcara untuk menghasilkan laman web, struktur kawalan, rentetan, kawalan pengesahsahihan, pangkalan data, dan bahasa pertanyaan berstruktur. Selain itu, buku ini turut menyediakan banyak contoh atur cara, latihan pengaturcaraan, dan cara membangunkan aplikasi web yang melibatkan penggunaan pangkalan data bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web ASP.NET. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengaturcara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membina laman web menggunakan ASP.NET dengan mudah dan berkesan.
+
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/sql.jpeg"  height="300" />
+</p>
+
+### Microsoft SQL Server 2000: Teori dan Amali
+
+- **ISBN:** 983-52-0354-7
+- **Ketebalan:** 212
+- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/microsoft-sql-server-2000-teori-dan-amali/)
+
+Microsoft SQL Server 2000 merupakan salah satu penyelesaian Sistem Pengurusan Pangkalan Data (SPPD) yang digunakan secara meluas oleh kebanyakan organisasi pada masa kini. Buku ini ditulis untuk kegunaan para pelajar yang mengambil mata pelajaran pangkalan data dengan mengandaikan bahawa mereka telah mempunyai pengetahuan dalam SPPD. Justeru itu, buku ini akan memberi pendedahan kepada pembaca untuk membina satu sistem pangkalan data secara teori dan juga amali. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah, pelajar dan juga pembaca yang berminat untuk membangunkan satu sistem pangkalan data menggunakan Microsoft SQL Server 2000.
+
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/asp.webp"  height="300" />
+</p>
+
+### Pembangunan Aplikasi Web Menggunakan Active Server Pages (ASP)
+
+- **ISBN:** 978–983–52–0400–4
+- **Ketebalan:** 379
+- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net/)
+
+Persekitaran web menyediakan pelbagai teknologi serta komponen bagi tujuan pembangunan aplikasi web. Contoh teknologi atau komponen sedia ada yang boleh digunakan adalah seperti objek HTML piawai, skrip-pelanggan (JavaScript, VB Script), teknologi sebelah pelayan seperti Active Server Pages (ASP), Hypertext Preprocessor (PHP), dan Java Server Pages (JSP). Kepelbagaian ini membolehkan persekitaran web digunakan untuk pembangunan pelbagai jenis aplikasi web sama ada berbentuk konvensional, multimedia atau saintifik. Justeru itu, buku ini memberi pendedahan dan panduan kepada pembaca untuk membangunkan aplikasi web dengan menggunakan teknologi ASP. Selain itu, buku ini juga menerangkan tentang teknologi web secara umum, penggunaan sistem pengurusan pangkalan data dalam aplikasi web yang dibangunkan, penghasilan laporan dengan menggunakan Crystal Report dan cara menghasilkan laman web bagi troli pembelian. Sila layari laman web [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net/) untuk memperoleh contoh aplikasi mudah yang telah dibangun dengan menggunakan teknologi ASP. Buku ini sesuai digunakan sebagai bahan pengajaran dan pembelajaran oleh pensyarah, pelajar mahupun pembaca umum yang berminat untuk membangunkan sistem aplikasi web menggunakan ASP.
+ 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/mybooks/issues) for any improvements, suggestions or errors in the content.
 
