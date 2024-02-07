@@ -46,7 +46,8 @@ Sistem Pangkalan Data ditulis untuk membantu pembaca memahami konsep, mereka ben
 <img src="./images/web.png" width="16px" height="16px" > **Web**: [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengkomputeran-selari/)<br>
 
 **Sinopsis:**<br>
-Pengkomputeran selari merupakan gabungan berbilang pemproses atau berbilang teras yang tidak bersandar antara satu dengan yang lain dalam ruang memori dan beroperasi secara bersama. Teknologi ini telah digunakan dengan meluas dalam menyelesaikan pelbagai masalah fizikal yang bersifat global. Teknologi ini juga mampu melaksanakan proses pengiraan yang kompleks, iaitu mampu menampung ruang ingatan yang cukup besar dan menyelesaikan masalah yang melibatkan data ukuran yang sangat besar.
+Pengkomputeran selari merupakan gabungan berbilang pemproses atau berbilang teras yang tidak bersandar antara satu dengan yang lain dalam ruang memori dan beroperasi secara bersama. Teknologi ini telah digunakan dengan meluas dalam menyelesaikan pelbagai masalah fizikal yang bersifat global. Teknologi ini juga mampu melaksanakan proses pengiraan yang kompleks, iaitu mampu menampung ruang ingatan yang cukup besar dan menyelesaikan masalah yang melibatkan data ukuran yang sangat besar. <br><br><br><br>
+
 
 ## 5. Pengaturcaraan Pangkalan Data Menggunakan Oracle 11g
 <img src="https://drshahizan.github.io/assets/images/buku/oracle.jpeg" style="width:200px;"  align="left">
