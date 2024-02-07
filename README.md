@@ -8,13 +8,11 @@
 # Books
 
 ## 1. Pengaturcaraan Web ASP. NET Menggunakan VB dan C#
-<img src="https://content.packt.com/B00698/cover_image_small.jpg" style="width:200px;"  align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:300px;"  align="left">
 
-- **ISBN:** 978-983-52-1098-3<br>
-- **Ketebalan:** 571<br>
-- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net-menggunakan-vb-dan-c/)<br>
+**ISBN:** 978-983-52-1098-3 **Ketebalan:** 571 **[Web](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net-menggunakan-vb-dan-c/)**<br>
 
-#### Sinopsis: 
+**Sinopsis:**<br>
 Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web dengan menggunakan teknologi ASP.NET. Teknologi ASP.NET merupakan rangka kerja pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Web Developer (MSVWD) yang diguna untuk menghasilkan laman web ASP.NET, kawalan piawai dan sintaks asas ASP.NET yang boleh digunakan oleh pengaturcara untuk menghasilkan laman web, struktur kawalan, rentetan, kawalan pengesahsahihan, pangkalan data, dan bahasa pertanyaan berstruktur. Selain itu, buku ini turut menyediakan banyak contoh atur cara, latihan pengaturcaraan, dan cara membangunkan aplikasi web yang melibatkan penggunaan pangkalan data bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web ASP.NET. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengaturcara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membina laman web menggunakan ASP.NET dengan mudah dan berkesan.
 
 
