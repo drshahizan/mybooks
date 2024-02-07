@@ -19,11 +19,9 @@
 
 Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web dengan menggunakan teknologi ASP.NET. Teknologi ASP.NET merupakan rangka kerja pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Web Developer (MSVWD) yang diguna untuk menghasilkan laman web ASP.NET, kawalan piawai dan sintaks asas ASP.NET yang boleh digunakan oleh pengaturcara untuk menghasilkan laman web, struktur kawalan, rentetan, kawalan pengesahsahihan, pangkalan data, dan bahasa pertanyaan berstruktur. Selain itu, buku ini turut menyediakan banyak contoh atur cara, latihan pengaturcaraan, dan cara membangunkan aplikasi web yang melibatkan penggunaan pangkalan data bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web ASP.NET. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengaturcara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membina laman web menggunakan ASP.NET dengan mudah dan berkesan.
 
-
 <p align="left">
 <img src="https://drshahizan.github.io/assets/images/buku/Pembangunan-Aplikasi-Web-Menggunakan-ASP.NET_.jpg"  height="300" />
 </p>
-
 
 ### Pembangunan Aplikasi Web menggunakan ASP.NET
 
@@ -96,8 +94,6 @@ Buku ini memperkenalkan kepada pembaca tentang asas pengaturcaraan web dalam Hyp
 <p align="left">
 <img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.NET_.jpg"  height="300" />
 </p>
-
-![Project Image](assets/images/buku/Pengaturcaraan-Web-ASP.NET_.jpg)
 
 ### Pengaturcaraan Web ASP.NET
 
