@@ -120,6 +120,7 @@ Persekitaran web menyediakan pelbagai teknologi serta komponen bagi tujuan pemba
 | 4 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Prakata|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 5 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Blurb buku|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 6 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Sinopsis|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 7 | Pengkomputeran Selari  | Sinopsis|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 
  
 ## Contribution 🛠️
