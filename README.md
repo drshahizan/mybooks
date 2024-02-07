@@ -33,6 +33,19 @@ Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web d
 
 Buku ini memberi pendedahan dan panduan kepada pembaca untuk membangunkan aplikasi web dengan menggunakan ASP.NET. ASP.NET merupakan bahasa pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Studio 2008 (MVS) yang digunakan untuk membangunkan aplikasi web dan penggunaan navigasi, tema dan Master Page bagi menghasilkan reka bentuk aplikasi web. Selain daripada itu, penerangan tentang pangkalan data, cara membangunkan pangkalan data, penggunaan data dalam pangkalan data, penghasilan laporan menggunakan Crystal Reports dan kawalan ReportViewer, penggunaan kawalan keselamatan, teknologi AJAX dan pemasangan aplikasi web pada pelayan web turut diterangkan dalam buku ini. Buku ini sesuai digunakan sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengatur cara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membangunkan aplikasi web menggunakan ASP.NET dengan mudah dan berkesan.
 
+<p align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Sistem-Pangkalan-Data.jpg"  height="300" />
+</p>
+
+### Sistem Pangkalan Data
+
+- **ISBN:** 978-983-52-0778-5
+- **Ketebalan:** 194
+- **Web:** [Penerbit UTM Press](https://penerbit.utm.my/booksonline/sistem-pangkalan-data/)
+
+Sistem Pangkalan Data ditulis untuk membantu pembaca memahami konsep, mereka bentuk, dan membangunkan sistem pangkalan data. Buku ini dibahagikan kepada lapan bab bermula daripada penerangan tentang pengenalan dan persekitaran pangkalan data, mereka bentuk pangkalan data dengan menggunakan model data, penormalan dan penyemakan sifat jadual, dan diakhiri dengan manipulasi data menggunakan bahasa pertanyaan berstruktur. Setiap bab mempunyai soalan latihan yang boleh digunakan untuk menguji kefahaman pembaca terhadap bab-bab yang diikutinya. Buku ini sesuai digunakan sebagai bahan pengajaran dan pembelajaran oleh pensyarah, pelajar atau pembaca umum yang berminat untuk memahami sistem pangkalan data.
+        
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/mybooks/issues) for any improvements, suggestions or errors in the content.
