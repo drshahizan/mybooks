@@ -8,25 +8,31 @@
 # Books
 
 ## 1. Pengaturcaraan Web ASP. NET Menggunakan VB dan C#
-<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:300px;"  align="left">
+<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:200px;"  align="left">
 
-<img src="./images/isbn.png" width="16px" height="16px" >**ISBN:** 978-983-52-1098-3 <img src="./images/thickness.svg" width="16px" height="16px" >**Ketebalan:** 571 <img src="./images/web.png" width="16px" height="16px" >**Web**: [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net-menggunakan-vb-dan-c/)<br>
+<img src="./images/isbn.png" width="16px" height="16px" > **ISBN:** 978-983-52-1098-3 <br>
+<img src="./images/thickness.svg" width="16px" height="16px" > **Ketebalan:** 571 <br>
+<img src="./images/web.png" width="16px" height="16px" > **Web**: [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net-menggunakan-vb-dan-c/)<br>
 
 **Sinopsis:**<br>
 Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web dengan menggunakan teknologi ASP.NET. Teknologi ASP.NET merupakan rangka kerja pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Web Developer (MSVWD) yang diguna untuk menghasilkan laman web ASP.NET, kawalan piawai dan sintaks asas ASP.NET yang boleh digunakan oleh pengaturcara untuk menghasilkan laman web, struktur kawalan, rentetan, kawalan pengesahsahihan, pangkalan data, dan bahasa pertanyaan berstruktur. Selain itu, buku ini turut menyediakan banyak contoh atur cara, latihan pengaturcaraan, dan cara membangunkan aplikasi web yang melibatkan penggunaan pangkalan data bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web ASP.NET. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengaturcara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membina laman web menggunakan ASP.NET dengan mudah dan berkesan.
 
 ## 2. Pembangunan Aplikasi Web menggunakan ASP.NET
 
-<img src="https://drshahizan.github.io/assets/images/buku/Pembangunan-Aplikasi-Web-Menggunakan-ASP.NET_.jpg" style="width:300px;"  align="left">
-<img src="./images/isbn.png" width="16px" height="16px" >**ISBN:** 978-983-52-0757-0 <img src="./images/thickness.svg" width="16px" height="16px" >**Ketebalan:** 514 <img src="./images/web.png" width="16px" height="16px" >**Web**: [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pembangunan-aplikasi-web-menggunakan-asp-net/)<br>
+<img src="https://drshahizan.github.io/assets/images/buku/Pembangunan-Aplikasi-Web-Menggunakan-ASP.NET_.jpg" style="width:200px;"  align="left">
 
+<img src="./images/isbn.png" width="16px" height="16px" > **ISBN:** 978-983-52-0757-0 <br>
+<img src="./images/thickness.svg" width="16px" height="16px" > **Ketebalan:** 514 <br>
+<img src="./images/web.png" width="16px" height="16px" > **Web**: [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pembangunan-aplikasi-web-menggunakan-asp-net/)<br>
+
+**Sinopsis:**<br>
 Buku ini memberi pendedahan dan panduan kepada pembaca untuk membangunkan aplikasi web dengan menggunakan ASP.NET. ASP.NET merupakan bahasa pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Studio 2008 (MVS) yang digunakan untuk membangunkan aplikasi web dan penggunaan navigasi, tema dan Master Page bagi menghasilkan reka bentuk aplikasi web. Selain daripada itu, penerangan tentang pangkalan data, cara membangunkan pangkalan data, penggunaan data dalam pangkalan data, penghasilan laporan menggunakan Crystal Reports dan kawalan ReportViewer, penggunaan kawalan keselamatan, teknologi AJAX dan pemasangan aplikasi web pada pelayan web turut diterangkan dalam buku ini. Buku ini sesuai digunakan sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengatur cara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membangunkan aplikasi web menggunakan ASP.NET dengan mudah dan berkesan.
 
+## 3. Sistem Pangkalan Data
 <p align="left">
 <img src="https://drshahizan.github.io/assets/images/buku/Sistem-Pangkalan-Data.jpg"  height="300" />
 </p>
 
-### Sistem Pangkalan Data
 
 - **ISBN:** 978-983-52-0778-5
 - **Ketebalan:** 194
@@ -38,7 +44,7 @@ Sistem Pangkalan Data ditulis untuk membantu pembaca memahami konsep, mereka ben
 <img src="https://drshahizan.github.io/assets/images/buku/Pekomputeran-Selari.jpg"  height="300" />
 </p>
 
-### Pengkomputeran Selari
+## 4. Pengkomputeran Selari
 
 - **ISBN:** 978-983-52-0965-9
 - **Ketebalan:** 138
@@ -50,7 +56,7 @@ Pengkomputeran selari merupakan gabungan berbilang pemproses atau berbilang tera
 <img src="https://drshahizan.github.io/assets/images/buku/oracle.jpeg"  height="300" />
 </p>
 
-### Pengaturcaraan Pangkalan Data Menggunakan Oracle 11g
+## 5. Pengaturcaraan Pangkalan Data Menggunakan Oracle 11g
 
 - **ISBN:** 978-983-52-0925-3
 - **Ketebalan:** 404
@@ -62,7 +68,7 @@ Pangkalan data merupakan komponen utama yang penting dalam pembangunan sistem ma
 <img src="https://drshahizan.github.io/assets/images/buku/Organisasi-maklumat.jpeg"  height="300" />
 </p>
 
-### Organisasi Maklumat
+## 6. Organisasi Maklumat
 
 - **ISBN:** 978-983-52-0456-2
 - **Ketebalan:** 237
@@ -74,7 +80,7 @@ Organisasi maklumat bermula sebaik sahaja manusia mencipta bahasa dan menggunaka
 <img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-Hypertext-Preprocessor-PHP.jpg"  height="300" />
 </p>
 
-### Pengaturcaraan Web Hypertext Preprocessor (PHP)
+## 7. Pengaturcaraan Web Hypertext Preprocessor (PHP)
 
 - **ISBN:** 983-52-0405-5
 - **Ketebalan:** 354
@@ -86,7 +92,7 @@ Buku ini memperkenalkan kepada pembaca tentang asas pengaturcaraan web dalam Hyp
 <img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.NET_.jpg"  height="300" />
 </p>
 
-### Pengaturcaraan Web ASP.NET
+## 8. Pengaturcaraan Web ASP.NET
 
 - **ISBN:** 978–983–52–0736–5
 - **Ketebalan:** 430
@@ -98,7 +104,7 @@ Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web d
 <img src="https://drshahizan.github.io/assets/images/buku/sql.jpeg"  height="300" />
 </p>
 
-### Microsoft SQL Server 2000: Teori dan Amali
+## 9. Microsoft SQL Server 2000: Teori dan Amali
 
 - **ISBN:** 983-52-0354-7
 - **Ketebalan:** 212
@@ -110,7 +116,7 @@ Microsoft SQL Server 2000 merupakan salah satu penyelesaian Sistem Pengurusan Pa
 <img src="https://drshahizan.github.io/assets/images/buku/asp.webp"  height="300" />
 </p>
 
-### Pembangunan Aplikasi Web Menggunakan Active Server Pages (ASP)
+## 10. Pembangunan Aplikasi Web Menggunakan Active Server Pages (ASP)
 
 - **ISBN:** 978–983–52–0400–4
 - **Ketebalan:** 379
