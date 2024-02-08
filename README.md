@@ -22,6 +22,12 @@ Buku Rujukan adalah bahan penerbitan yang digunakan sebagai rujukan untuk mendap
 #### 3. Buku Umum 
 Buku Umum adalah bahan bacaan yang berkaitan dengan perkara-perkara umum dan boleh menarik minat orang ramai. (Diubahsuai daripada Kamus Dewan Edisi Keempat)
 
+## Maklumat Penulisan 
+| No | Topik |Fail |
+| :-----: | ------ | :-----: | 
+| 1 | Ciri-ciri Buku Karya Asli yang baik |  <a href="./material/ciri.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+
+
 ## Ciri-ciri Buku Karya Asli yang baik
 ### 1. Bilangan penulis
 Buku karya asli yang baik sebaiknya ditulis oleh tidak lebih daripada **tiga orang** penulis. Ini kerana jika terlalu ramai penulis, gaya penulisan dan sudut pandang mungkin tidak konsisten dan menyebabkan kekeliruan pembaca. Jika buku karya asli itu hendak dipertandingkan untuk **anugerah buku**, bilangan penulis juga perlu diambil kira kerana sesetengah anugerah buku mempunyai syarat tertentu mengenai bilangan penulis.
