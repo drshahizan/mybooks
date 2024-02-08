@@ -6,9 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2mybooks&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Buku
-
-## Penghantaran Manuskrip
+# Penghantaran Manuskrip
 
 - Manuskrip yang diserahkan kepada Penerbit UTM Press hendaklah mengandungi keseluruhan bahan dalam bentuk cetakan asal.
 - Manuskrip hendaklah diserahkan dalam keadaan rata, iaitu tidak dilipat atau digulung atau sebarang keadaan yang boleh mengganggu proses penilaian oleh penilai dan hendaklah dimasukkan ke dalam sampul surat dengan pengikat lembaran yang kukuh. Pengikatan yang sesuai akan dilakukan oleh Penerbit UTM Press.
