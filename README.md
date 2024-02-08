@@ -19,13 +19,13 @@
 
 [Penerbit UTM Press](https://penerbit.utm.my/) ditubuhkan dengan matlamat untuk menyediakan perkhidmatan bagi membantu dan menggalakkan kakitangan akademik untuk menghasilkan karya asli atau karya terjemahan untuk kegunaan pengajaran dan pembelajaran dan untuk bahan bacaan umum kepada orang ramai. Penerbitan buku karya asli di Penerbit UTM Press boleh dikategorikan sebagai
 
-### Buku Teks
+#### 1. Buku Teks
 Buku Teks adalah buku yang mengandungi ilmu tentang sesuatu subjek yang digunakan oleh guru dan pelajar sebagai bahan pengajaran dan pembelajaran.
 
-### Buku Rujukan 
+#### 2. Buku Rujukan 
 Buku Rujukan adalah bahan penerbitan yang digunakan sebagai rujukan untuk mendapatkan penjelasan lanjut tentang sesuatu perkara (untuk pembelajaran, kerja makmal, dan sebagainya).
 
-### Buku Umum 
+#### 3. Buku Umum 
 Buku Umum adalah bahan bacaan yang berkaitan dengan perkara-perkara umum dan boleh menarik minat orang ramai. (Diubahsuai daripada Kamus Dewan Edisi Keempat)
 
 ## Ciri-ciri Buku Karya Asli yang baik
