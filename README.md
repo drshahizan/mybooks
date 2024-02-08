@@ -66,15 +66,15 @@ Anda perlu mengikuti panduan ini apabila menulis manuskrip yang meliputi gaya pe
 
 ### Manuskrip
 
-- (a) Anda perlu menyerahkan **satu salinan cetak** manuskrip asal kepada Penerbit UTM Press.
-- (b) Anda juga perlu menyerahkan **softcopy manuskrip** (Menggunakan Microsoft Word) yang mengandungi:
-  - Kesemua bahan dalam **satu fail** **(wajib)**
-  - Bahan-bahan yang berasingan dalam **fail-fail berasingan** **(wajib)**
-  - Softcopy manuskrip hendaklah dihantar melalui emel ke **karyaasli@utm.my**  **(wajib)**
+1. Anda perlu menyerahkan **satu salinan cetak** manuskrip asal kepada Penerbit UTM Press.
+2. Anda juga perlu menyerahkan **softcopy manuskrip** (Menggunakan Microsoft Word) yang mengandungi:
+      - Kesemua bahan dalam **satu fail** **(wajib)**
+      - Bahan-bahan yang berasingan dalam **fail-fail berasingan** **(wajib)**
+      - Softcopy manuskrip hendaklah dihantar melalui emel ke **karyaasli@utm.my**  **(wajib)**
 
-- Anda boleh merujuk kepada **[PANDUAN](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Revised-Guide-to-Construct-to-Original-Manuscript-1.docx)** untuk membina manuskrip dalam fail word. Untuk versi Bahasa Inggeris klik di sini **[GUIDELINES TO CONSTRUCT ORIGINAL MANUSCRIPT](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Panduan-Membina-Manuskrip-Karya-Asli-Semakan-2022-1.docx)**
-- Anda juga boleh melihat **[ALIRAN KERJA PENERBITAN BUKU ASLI](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/ORIGINAL-BOOK-PUBLICATION-WORKFLOW-STARTING-2023.pdf)** untuk mengetahui proses penerbitan buku asli.
-- Untuk rujukan menggunakan Gaya APA Edisi Ketujuh. Klik [di sini](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/APA-STYLE-REFERENCE.pdf).
+3. Anda boleh merujuk kepada **[PANDUAN](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Revised-Guide-to-Construct-to-Original-Manuscript-1.docx)** untuk membina manuskrip dalam fail word. Untuk versi Bahasa Inggeris klik di sini **[GUIDELINES TO CONSTRUCT ORIGINAL MANUSCRIPT](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Panduan-Membina-Manuskrip-Karya-Asli-Semakan-2022-1.docx)**
+4. Anda juga boleh melihat **[ALIRAN KERJA PENERBITAN BUKU ASLI](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/ORIGINAL-BOOK-PUBLICATION-WORKFLOW-STARTING-2023.pdf)** untuk mengetahui proses penerbitan buku asli.
+5. Untuk rujukan menggunakan Gaya APA Edisi Ketujuh. Klik [di sini](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/APA-STYLE-REFERENCE.pdf).
 
 **Struktur manuskrip terdiri daripada bahagian-bahagian ini.**
 - Manuskrip dianggap lengkap apabila memenuhi semua syarat untuk menjadi sebuah buku. Secara umumnya, sebuah buku mengandungi tiga bahagian utama, iaitu Bahagian Depan, Teks Utama, dan Bahagian Belakang. Oleh itu, penulis mesti memastikan bahawa manuskrip yang disediakan mengandungi ketiga-tiga bahagian tersebut.
