@@ -68,7 +68,8 @@ Buku karya asli yang baik mempunyai judul buku yang **tidak terlalu panjang**. J
 - Semua ilustrasi seperti fotografi, rajah, carta, graf, peta, dan lukisan hendaklah diserahkan dalam bentuk softcopy. Jika ilustrasi (dalam jpeg) telah diberi kapsyen dan nombor, kapsyen dan nombor tersebut hendaklah sama dengan yang terdapat dalam teks.
 - Manuskrip yang ditulis dengan tangan yang diserahkan TIDAK akan diterima.
 - Penulis bertanggungjawab untuk memastikan **Laporan Turnitin** adalah di bawah 20%. Laporan tersebut boleh dilakukan oleh penulis atau Penerbit UTM Press.  
-- Lengkapkan **[Borang Pengakuan Penulis](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Revised-Authors-declaration.docx)** dan [**Pengakuan Penyerahan Manuskrip**](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Pengakuan-Penyerahan-Manuskrip-Semakan-2022.docx). Sila baca dan fahami terma dan syarat untuk memastikan proses penerbitan berjalan lancar.  
+- Lengkapkan **[Borang Pengakuan Penulis](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Revised-Authors-declaration.docx)** dan [**Pengakuan Penyerahan Manuskrip**](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Pengakuan-Penyerahan-Manuskrip-Semakan-2022.docx). Sila baca dan fahami terma dan syarat untuk memastikan proses penerbitan berjalan lancar.
+- Sila hantar semua bahan di atas ke **karyaasli@utm.my**
 - Salinan keras manuskrip boleh dihantar ke alamat ini:  
   >Penerbit UTM Press  
   >Universiti Teknologi Malaysia  
@@ -76,7 +77,6 @@ Buku karya asli yang baik mempunyai judul buku yang **tidak terlalu panjang**. J
   >JOHOR, MALAYSIA  
   >att: Unit Buku Asli & Projek Khas  
   >Tel : 07-553 5670
-- Sila hantar semua bahan di atas ke **karyaasli@utm.my**
 
 ## Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan
 
