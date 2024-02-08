@@ -76,10 +76,10 @@ Anda perlu mengikuti panduan ini apabila menulis manuskrip yang meliputi gaya pe
 4. Anda juga boleh melihat **[ALIRAN KERJA PENERBITAN BUKU ASLI](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/ORIGINAL-BOOK-PUBLICATION-WORKFLOW-STARTING-2023.pdf)** untuk mengetahui proses penerbitan buku asli.
 5. Untuk rujukan menggunakan Gaya APA Edisi Ketujuh. Klik [di sini](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/APA-STYLE-REFERENCE.pdf).
 
-**Struktur manuskrip terdiri daripada bahagian-bahagian ini.**
-- Manuskrip dianggap lengkap apabila memenuhi semua syarat untuk menjadi sebuah buku. Secara umumnya, sebuah buku mengandungi tiga bahagian utama, iaitu Bahagian Depan, Teks Utama, dan Bahagian Belakang. Oleh itu, penulis mesti memastikan bahawa manuskrip yang disediakan mengandungi ketiga-tiga bahagian tersebut.
+### Struktur manuskrip
+Manuskrip dianggap lengkap apabila memenuhi semua syarat untuk menjadi sebuah buku. Secara umumnya, sebuah buku mengandungi tiga bahagian utama, iaitu Bahagian Depan, Teks Utama, dan Bahagian Belakang. Oleh itu, penulis mesti memastikan bahawa manuskrip yang disediakan mengandungi ketiga-tiga bahagian tersebut.
 
-**Bahagian Depan**
+#### 1. Bahagian Depan
 - (a) Kulit – Tajuk manuskrip dengan nama penulis
 - (b) Tajuk manuskrip **(wajib)**
 - (c) Halaman penghargaan (pilihan)
@@ -92,7 +92,7 @@ Anda perlu mengikuti panduan ini apabila menulis manuskrip yang meliputi gaya pe
 - (j) Pengakuan (pilihan)
 - (k) Senarai singkatan/simbol (jika ada)
 
-**Teks Utama**
+#### 2. Teks Utama
 - (a) Tajuk dan penomboran Bahagian (jika ada)
 - (b) Tajuk dan penomboran Bab **(wajib)**
 - (c) Tajuk Segmen/Seksyen **(wajib)**
@@ -103,19 +103,19 @@ Anda perlu mengikuti panduan ini apabila menulis manuskrip yang meliputi gaya pe
 - (h) Nota kaki/nota bab/nota akhir (jika ada)
 - (i) Penomboran halaman **(wajib)**
 
-**Bahagian Belakang**
+#### 3. Bahagian Belakang
 - (a) Lampiran (jika ada)
 - (b) Senarai istilah (jika ada)
 - (c) Glosari (pilihan)
 - (d) Bibliografi/Rujukan **(wajib) -menggunakan Format APA**
 - (e) Indeks **(wajib)**
 
-**Maklumat untuk kulit belakang (Blurb)**
+#### 4. Maklumat untuk kulit belakang (Blurb)
 - (a) Sinopsis **(wajib)**
 - (b) Biodata & gambar penulis **(wajib) *gambar dalam format jpeg tidak kurang daripada 300 dpi**
 
-**Maklumat tambahan**
-- Semua bahan berhak cipta (ilustrasi, gambar, jadual, keratan akhbar atau majalah, artikel, dan akta) mesti mendapat pelepasan hak cipta daripada penerbit asal atau penganjur persidangan. (Surat pernyataan/hak pengeluaran semula daripada penerbit asal mesti dilampirkan.)
+#### 5. Maklumat tambahan
+Semua bahan berhak cipta (ilustrasi, gambar, jadual, keratan akhbar atau majalah, artikel, dan akta) mesti mendapat pelepasan hak cipta daripada penerbit asal atau penganjur persidangan. (Surat pernyataan/hak pengeluaran semula daripada penerbit asal mesti dilampirkan.)
 
 **Gaya penulisan Penerbit UTM Press**
 1) Manuskrip mesti ditulis/merakam dengan kemas dan konsisten menggunakan saiz kertas **A4**, **jarak dua** dengan hanya satu sisi dicetak. Sila gunakan fon Times New Roman dengan saiz fon 12.
