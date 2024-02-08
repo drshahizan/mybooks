@@ -60,6 +60,31 @@ Buku karya asli yang baik mempunyai judul buku yang **tidak terlalu panjang**. J
 - Penulis **gagal siapkan pembetulan** dalam **tempoh ditetapkan** oleh pihak penerbit. Ini adalah perbuatan yang tidak bertanggungjawab dan tidak menghormati pihak penerbit. Penulis yang gagal siapkan pembetulan dalam tempoh ditetapkan boleh menyebabkan penerbitan buku karya asli tertangguh atau terbatal. Penulis sepatutnya menyiapkan pembetulan dengan segera dan tepat, dengan mengikut jadual dan tarikh yang diberikan oleh pihak penerbit.
 - **Penukaran atau pertambahan foto** dalam teks secara **last minute**. Ini adalah perbuatan yang tidak wajar dan tidak menghargai kerja pihak penerbit. Penulis yang menukar atau menambah foto dalam teks secara disaat akhir boleh menyebabkan reka letak buku karya asli terganggu atau terjejas. Penulis sepatutnya menentukan foto yang sesuai dan mencukupi sebelum menghantar manuskrip kepada pihak penerbit, dan tidak membuat sebarang perubahan yang tidak perlu selepas itu.
 
+## Penghantaran Manuskrip
+
+- Manuskrip yang diserahkan kepada Penerbit UTM Press hendaklah mengandungi keseluruhan bahan dalam bentuk cetakan asal.
+- Manuskrip hendaklah diserahkan dalam keadaan rata, iaitu tidak dilipat atau digulung atau sebarang keadaan yang boleh mengganggu proses penilaian oleh penilai dan hendaklah dimasukkan ke dalam sampul surat dengan pengikat lembaran yang kukuh. Pengikatan yang sesuai akan dilakukan oleh Penerbit UTM Press.
+- Manuskrip yang diserahkan kepada Penerbit UTM Press hendaklah merupakan hasil pemikiran akhir penulis dalam penulisannya dan BUKAN draf yang akan diubah kemudian.
+- Semua ilustrasi seperti fotografi, rajah, carta, graf, peta, dan lukisan hendaklah diserahkan dalam bentuk softcopy. Jika ilustrasi (dalam jpeg) telah diberi kapsyen dan nombor, kapsyen dan nombor tersebut hendaklah sama dengan yang terdapat dalam teks.
+- Manuskrip yang ditulis dengan tangan yang diserahkan TIDAK akan diterima.
+- Salinan keras manuskrip boleh dihantar ke alamat ini:  
+  >Penerbit UTM Press  
+  >Universiti Teknologi Malaysia  
+  >81310 Johor Bahru  
+  >JOHOR, MALAYSIA  
+  >att: Unit Buku Asli & Projek Khas  
+  >Tel : 07-553 5670
+
+Ini adalah langkah-langkah yang wajib.
+
+1. Penulis bertanggungjawab untuk memastikan **Laporan Turnitin** adalah di bawah 20%. Laporan tersebut boleh dilakukan oleh penulis atau Penerbit UTM Press.  
+2. Lengkapkan **[BORANG PENGAKUAN PENULIS](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Revised-Authors-declaration.docx)** ini. Sila baca dan fahami terma dan syarat untuk memastikan proses penerbitan berjalan lancar.  
+3. Sila hantar semua bahan di atas ke **karyaasli@utm.my**
+
+[**Pengakuan penyerahan manuskrip**](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Pengakuan-Penyerahan-Manuskrip-Semakan-2022.docx)
+
+
+
 ## Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan
 
 ### 1. Pengaturcaraan Web ASP. NET Menggunakan VB dan C#
