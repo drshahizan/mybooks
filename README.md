@@ -25,7 +25,7 @@ Buku Umum adalah bahan bacaan yang berkaitan dengan perkara-perkara umum dan bol
 ## Maklumat Penulisan 
 | No | Topik |Fail |
 | :-----: | ------ | :-----: | 
-| 1 | Ciri-ciri Buku Karya Asli yang baik |  <a href="./material/ciri.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 1 | Ciri-ciri Buku Karya Asli yang baik |  <a href="./materials/ciri.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 
 ## Ciri-ciri Buku Karya Asli yang baik
