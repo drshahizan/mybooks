@@ -6,16 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2mybooks&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Buku
-
-
-### Kandungan:
-- [Buku](#about-us)
-- [Bahan rujukan karya asli](#bahan-rujukan-karya-asli)
-    - [Contents:](#contents)
-
-
-## Bahan Rujukan Karya Asli
+# Bahan Rujukan Karya Asli
 
 | No | Buku |  Penerangan |Fail |
 | :-----: |------ | ------ | :-----: | 
