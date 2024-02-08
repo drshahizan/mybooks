@@ -60,6 +60,78 @@ Buku karya asli yang baik mempunyai judul buku yang **tidak terlalu panjang**. J
 - Penulis **gagal siapkan pembetulan** dalam **tempoh ditetapkan** oleh pihak penerbit. Ini adalah perbuatan yang tidak bertanggungjawab dan tidak menghormati pihak penerbit. Penulis yang gagal siapkan pembetulan dalam tempoh ditetapkan boleh menyebabkan penerbitan buku karya asli tertangguh atau terbatal. Penulis sepatutnya menyiapkan pembetulan dengan segera dan tepat, dengan mengikut jadual dan tarikh yang diberikan oleh pihak penerbit.
 - **Penukaran atau pertambahan foto** dalam teks secara **last minute**. Ini adalah perbuatan yang tidak wajar dan tidak menghargai kerja pihak penerbit. Penulis yang menukar atau menambah foto dalam teks secara disaat akhir boleh menyebabkan reka letak buku karya asli terganggu atau terjejas. Penulis sepatutnya menentukan foto yang sesuai dan mencukupi sebelum menghantar manuskrip kepada pihak penerbit, dan tidak membuat sebarang perubahan yang tidak perlu selepas itu.
 
+## Keperluan Penerbitan
+Ini adalah panduan untuk menulis manuskrip termasuk gaya penulisan, penyediaan manuskrip, dan maklumat tambahan.
+
+
+### Manusdkrip
+
+- (a) Salinan cetak manuskrip asal
+  (1 salinan keras mesti diserahkan kepada Penerbit UTM Press)
+- (b) Softcopy manuskrip (Menggunakan Microsoft Word)
+  - Kesemua dalam fail **(wajib)**
+  - Fail berasingan **(wajib)**
+  - Softcopy hendaklah dihantar melalui emel ke karyaasli@utm.my  **(wajib)**
+
+- Ini adalah **[PANDUAN](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Revised-Guide-to-Construct-to-Original-Manuscript-1.docx)** untuk membina manuskrip dalam fail word. Untuk versi Bahasa Inggeris klik di sini **[GUIDELINES TO CONSTRUCT ORIGINAL MANUSCRIPT](https://research.utm.my/wp-content/uploads/sites/11/2022/02/Panduan-Membina-Manuskrip-Karya-Asli-Semakan-2022-1.docx)**
+- Ini adalah **[ALIRAN KERJA PENERBITAN BUKU ASLI](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/ORIGINAL-BOOK-PUBLICATION-WORKFLOW-STARTING-2023.pdf)**
+- Untuk rujukan menggunakan Gaya APA Edisi Ketujuh. Klik [di sini](https://penerbit.utm.my/wp-content/uploads/sites/11/2023/02/APA-STYLE-REFERENCE.pdf).
+
+**Struktur manuskrip terdiri daripada bahagian-bahagian ini.**
+- Manuskrip dianggap lengkap apabila memenuhi semua syarat untuk menjadi sebuah buku. Secara umumnya, sebuah buku mengandungi tiga bahagian utama, iaitu Bahagian Depan, Teks Utama, dan Bahagian Belakang. Oleh itu, penulis mesti memastikan bahawa manuskrip yang disediakan mengandungi ketiga-tiga bahagian tersebut.
+
+**Bahagian Depan**
+- (a) Kulit – Tajuk manuskrip dengan nama penulis
+- (b) Tajuk manuskrip **(wajib)**
+- (c) Halaman penghargaan (pilihan)
+- (d) Senarai kandungan **(wajib)**
+- (e) Senarai ilustrasi (pilihan)
+- (f) Senarai jadual (pilihan)
+- (g) Kata pengantar (pilihan)
+- (h) Prakata **(wajib)**
+- (i) Pengenalan (pilihan)
+- (j) Pengakuan (pilihan)
+- (k) Senarai singkatan/simbol (jika ada)
+
+**Teks Utama**
+- (a) Tajuk dan penomboran Bahagian (jika ada)
+- (b) Tajuk dan penomboran Bab **(wajib)**
+- (c) Tajuk Segmen/Seksyen **(wajib)**
+- (d) Penomboran Segmen/Seksyen (wajib kecuali untuk sains sosial)
+- (e) Petikan/kutipan (jika ada)
+- (f) Ilustrasi/jadual (jika ada)
+- (g) Penomboran ilustrasi/jadual dengan kapsyen (jika ada)
+- (h) Nota kaki/nota bab/nota akhir (jika ada)
+- (i) Penomboran halaman **(wajib)**
+
+**Bahagian Belakang**
+- (a) Lampiran (jika ada)
+- (b) Senarai istilah (jika ada)
+- (c) Glosari (pilihan)
+- (d) Bibliografi/Rujukan **(wajib) -menggunakan Format APA**
+- (e) Indeks **(wajib)**
+
+**Maklumat untuk kulit belakang (Blurb)**
+- (a) Sinopsis **(wajib)**
+- (b) Biodata & gambar penulis **(wajib) *gambar dalam format jpeg tidak kurang daripada 300 dpi**
+
+**Maklumat tambahan**
+- Semua bahan berhak cipta (ilustrasi, gambar, jadual, keratan akhbar atau majalah, artikel, dan akta) mesti mendapat pelepasan hak cipta daripada penerbit asal atau penganjur persidangan. (Surat pernyataan/hak pengeluaran semula daripada penerbit asal mesti dilampirkan.)
+
+**Gaya rumah Penerbit UTM Press**
+1) Manuskrip mesti ditulis/merakam dengan kemas dan konsisten menggunakan saiz kertas **A4**, **jarak dua** dengan hanya satu sisi dicetak. Sila gunakan fon Times New Roman dengan saiz fon 12.
+2) Penulis mesti memastikan bahawa setiap halaman teks mematuhi **margin yang dipiawai, iaitu 32mm (1.23”) dari sebelah kiri, 32mm (1.23”) dari sebelah kanan, 25mm (1.0”) dari atas, dan 32mm (1.23”) dari bawah.**
+3) Apabila menyediakan manuskrip, penggunaan huruf besar, huruf condong, tanda baca, sistem penomboran akronim, ejaan, dan tatabahasa harus mengikut dan mengadaptasi *Gaya Dewan Edisi Ketiga.*
+4) Penyediaan manuskrip sains dan kejuruteraan memerlukan perhatian teliti dan serius daripada penulis berkenaan konsistensi dalam penggunaan istilah, unit pengukuran, dimensi, simbol, formula matematik, tanda teknikal, dan sebagainya. Penggunaannya mesti mengikut piawaian yang ditetapkan dalam *Gaya Dewan Edisi Ketiga.*
+```
+
+Source: Conversation with Bing, 08/02/2024
+(1) FREE Malay Grammar Checker - Paraphrase Tool. https://paraphrasetool.com/langs/malay-grammar-checker.
+(2) Malay Sentence Structure: 3 Tips To Sound Natural - Ling App. https://ling-app.com/ms/malay-sentence-structure/.
+(3) Malay Sentence Structure: 3 Tips To Sound Natural - Ling App. https://bing.com/search?q=proper+Malay+sentence.
+(4) proper in Malay - English-Malay Dictionary | Glosbe. https://glosbe.com/en/ms/proper.
+(5) properly in Malay - English-Malay Dictionary | Glosbe. https://glosbe.com/en/ms/properly.
+
 ## Penghantaran Manuskrip
 
 - Manuskrip yang diserahkan kepada Penerbit UTM Press hendaklah mengandungi keseluruhan bahan dalam bentuk cetakan asal.
