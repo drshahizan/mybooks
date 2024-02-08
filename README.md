@@ -14,6 +14,7 @@
 - [Bahan rujukan karya asli](#-course-high-performance-data-processing)
     - [Contents:](#contents)
 
+**Buku Karya Asli** dianggap sebagai tulisan pengarang sendiri yang tidak direka atau ditiru, tidak diduplikasi, dan tidak diterjemahkandaripada tulisan lain.
 
 ### 1. Pengaturcaraan Web ASP. NET Menggunakan VB dan C#
 <img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:200px;"  align="left">
