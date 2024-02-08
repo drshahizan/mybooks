@@ -17,6 +17,19 @@
 ## Pengenalan
 **Buku Karya Asli** adalah buku yang menunjukkan kreativiti dan originaliti penulis dalam menyampaikan idea, ilmu, atau pengalaman mereka. Buku Karya Asli tidak menyalin atau meniru karya orang lain tanpa memberi rujukan yang jelas. Buku Karya Asli juga tidak merupakan hasil terjemahan daripada bahasa lain, melainkan ia adalah karya asal penulis dalam bahasa tersebut. Buku Karya Asli biasanya mempunyai hak cipta yang terpelihara oleh penulis atau penerbit.
 
+Petikan/pernyataan/pandangan daripada penulis lain yang digunakan untuk menyokong hujah-hujah penulis, mesti diberi rujukan dan dirujuk kepada sumber asal maklumat tersebut.
+
+Penerbit UTM Press ditubuhkan dengan matlamat untuk menyediakan perkhidmatan bagi membantu dan menggalakkan kakitangan akademik untuk menghasilkan karya asli atau karya terjemahan untuk kegunaan pengajaran dan pembelajaran dan untuk bahan bacaan umum kepada orang ramai. Penerbitan buku karya asli di Penerbit UTM Press boleh dikategorikan sebagai
+
+### Buku Teks
+Buku Teks adalah buku yang mengandungi ilmu tentang sesuatu subjek yang digunakan oleh guru dan pelajar sebagai bahan pengajaran dan pembelajaran.
+
+### Buku Rujukan 
+Buku Rujukan adalah bahan penerbitan yang digunakan sebagai rujukan untuk mendapatkan penjelasan lanjut tentang sesuatu perkara (untuk pembelajaran, kerja makmal, dan sebagainya).
+
+### Buku Umum 
+Buku Umum adalah bahan bacaan yang berkaitan dengan perkara-perkara umum dan boleh menarik minat orang ramai. (Diubahsuai daripada Kamus Dewan Edisi Keempat)
+
 ## Ciri-ciri Buku Karya Asli yang baik
 ### 1. Bilangan penulis
 Buku karya asli yang baik sebaiknya ditulis oleh tidak lebih daripada **tiga orang** penulis. Ini kerana jika terlalu ramai penulis, gaya penulisan dan sudut pandang mungkin tidak konsisten dan menyebabkan kekeliruan pembaca. Jika buku karya asli itu hendak dipertandingkan untuk **anugerah buku**, bilangan penulis juga perlu diambil kira kerana sesetengah anugerah buku mempunyai syarat tertentu mengenai bilangan penulis.
