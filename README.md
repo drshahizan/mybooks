@@ -26,7 +26,11 @@ Buku Umum adalah bahan bacaan yang berkaitan dengan perkara-perkara umum dan bol
 | No | Topik |Fail |
 | :-----: | ------ | :-----: | 
 | 1 | Ciri-ciri Buku Karya Asli yang baik |  <a href="./materials/ciri.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-
+| 2 | Masalah dalam Penerbitan Buku Karya Asli |  <a href="./materials/masalah.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 3 | Keperluan Penerbitan |  <a href="./materials/keperluan.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 4 | Penghantaran Manuskrip |  <a href="./materials/hantar.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 5 | Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan |  <a href="./materials/buku" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 6 | Contoh Bahan Rujukan Karya Asli |  <a href="./materials/rujukan" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 ## Ciri-ciri Buku Karya Asli yang baik
 ### 1. Bilangan penulis
@@ -62,7 +66,6 @@ Buku karya asli yang baik mempunyai judul buku yang **tidak terlalu panjang**. J
 
 ## Keperluan Penerbitan
 Anda perlu mengikuti panduan ini apabila menulis manuskrip yang meliputi gaya penulisan, penyediaan manuskrip, dan maklumat tambahan.
-
 
 ### Manuskrip
 
@@ -245,7 +248,7 @@ Microsoft SQL Server 2000 merupakan salah satu penyelesaian Sistem Pengurusan Pa
 **Sinopsis:**<br>
 Persekitaran web menyediakan pelbagai teknologi serta komponen bagi tujuan pembangunan aplikasi web. Contoh teknologi atau komponen sedia ada yang boleh digunakan adalah seperti objek HTML piawai, skrip-pelanggan (JavaScript, VB Script), teknologi sebelah pelayan seperti Active Server Pages (ASP), Hypertext Preprocessor (PHP), dan Java Server Pages (JSP). Kepelbagaian ini membolehkan persekitaran web digunakan untuk pembangunan pelbagai jenis aplikasi web sama ada berbentuk konvensional, multimedia atau saintifik. Justeru itu, buku ini memberi pendedahan dan panduan kepada pembaca untuk membangunkan aplikasi web dengan menggunakan teknologi ASP. Selain itu, buku ini juga menerangkan tentang teknologi web secara umum, penggunaan sistem pengurusan pangkalan data dalam aplikasi web yang dibangunkan, penghasilan laporan dengan menggunakan Crystal Report dan cara menghasilkan laman web bagi troli pembelian. Sila layari laman web [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net/) untuk memperoleh contoh aplikasi mudah yang telah dibangun dengan menggunakan teknologi ASP. Buku ini sesuai digunakan sebagai bahan pengajaran dan pembelajaran oleh pensyarah, pelajar mahupun pembaca umum yang berminat untuk membangunkan sistem aplikasi web menggunakan ASP.
 
-## Bahan Rujukan Karya Asli
+## Contoh Bahan Rujukan Karya Asli
 
 | No | Buku |  Penerangan |Fail |
 | :-----: |------ | ------ | :-----: | 
