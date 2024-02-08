@@ -17,9 +17,7 @@
 ## Pengenalan
 **Buku Karya Asli** adalah buku yang menunjukkan kreativiti dan originaliti penulis dalam menyampaikan idea, ilmu, atau pengalaman mereka. Buku Karya Asli tidak menyalin atau meniru karya orang lain tanpa memberi rujukan yang jelas. Buku Karya Asli juga tidak merupakan hasil terjemahan daripada bahasa lain, melainkan ia adalah karya asal penulis dalam bahasa tersebut. Buku Karya Asli biasanya mempunyai hak cipta yang terpelihara oleh penulis atau penerbit.
 
-Petikan/pernyataan/pandangan daripada penulis lain yang digunakan untuk menyokong hujah-hujah penulis, mesti diberi rujukan dan dirujuk kepada sumber asal maklumat tersebut.
-
-Penerbit UTM Press ditubuhkan dengan matlamat untuk menyediakan perkhidmatan bagi membantu dan menggalakkan kakitangan akademik untuk menghasilkan karya asli atau karya terjemahan untuk kegunaan pengajaran dan pembelajaran dan untuk bahan bacaan umum kepada orang ramai. Penerbitan buku karya asli di Penerbit UTM Press boleh dikategorikan sebagai
+[Penerbit UTM Press](https://penerbit.utm.my/) ditubuhkan dengan matlamat untuk menyediakan perkhidmatan bagi membantu dan menggalakkan kakitangan akademik untuk menghasilkan karya asli atau karya terjemahan untuk kegunaan pengajaran dan pembelajaran dan untuk bahan bacaan umum kepada orang ramai. Penerbitan buku karya asli di Penerbit UTM Press boleh dikategorikan sebagai
 
 ### Buku Teks
 Buku Teks adalah buku yang mengandungi ilmu tentang sesuatu subjek yang digunakan oleh guru dan pelajar sebagai bahan pengajaran dan pembelajaran.
