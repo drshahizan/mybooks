@@ -17,6 +17,15 @@
 ## Pengenalan
 **Buku Karya Asli** adalah buku yang menunjukkan kreativiti dan originaliti penulis dalam menyampaikan idea, ilmu, atau pengalaman mereka. Buku Karya Asli tidak menyalin atau meniru karya orang lain tanpa memberi rujukan yang jelas. Buku Karya Asli juga tidak merupakan hasil terjemahan daripada bahasa lain, melainkan ia adalah karya asal penulis dalam bahasa tersebut. Buku Karya Asli biasanya mempunyai hak cipta yang terpelihara oleh penulis atau penerbit.
 
+## Ciri-ciri Buku Karya Asli yang baik
+- **Bilangan penulis** buku karya asli tidak melebihi **tiga orang**. Ini adalah salah satu syarat untuk membolehkan buku tersebut dipertimbangkan untuk **anugerah buku** yang diadakan oleh badan-badan tertentu.
+- **Bahasa** yang digunakan dalam teks buku karya asli adalah **mudah difahami** oleh pembaca sasaran. Bahasa tersebut juga **betul** dari segi **tatabahasa**, ejaan, dan tanda baca. Kesalahan-kesalahan bahasa boleh menjejaskan kualiti dan kredibiliti buku karya asli.
+- **Reka letak** atau **typesetting** buku karya asli adalah **menarik** dan **tidak membosankan**. Reka letak yang baik boleh menambah daya tarikan dan keselesaan pembaca terhadap buku karya asli. Reka letak yang baik juga boleh memudahkan pembaca mengikuti aliran dan struktur buku karya asli.
+- **Panjang** buku karya asli adalah **sekurang-kurangnya 100 halaman**. Ini adalah ukuran minimum yang biasanya digunakan untuk mengenal pasti buku karya asli yang mempunyai isi kandungan yang mencukupi dan mendalam. Panjang buku karya asli juga boleh menunjukkan usaha dan komitmen penulis dalam menulis buku tersebut.
+- **Bilangan bab** dalam buku karya asli adalah **sekurang-kurangnya lima bab**. Ini adalah jumlah minimum yang biasanya digunakan untuk membina rangka kerja dan organisasi buku karya asli. Bilangan bab yang ganjil, seperti **lima, tujuh, atau sembilan**, adalah lebih disukai kerana ia memberi kesan keseimbangan dan simetri kepada buku karya asli.
+- **Judul** buku karya asli adalah **tidak terlalu panjang**. Judul yang panjang boleh menyebabkan pembaca berasa bosan atau keliru. Judul yang pendek dan padat adalah lebih menarik dan mudah diingati. Judul buku karya asli biasanya tidak melebihi **lima hingga tujuh patah perkataan**.
+
+## Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan
 
 ### 1. Pengaturcaraan Web ASP. NET Menggunakan VB dan C#
 <img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:200px;"  align="left">
