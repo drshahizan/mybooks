@@ -29,8 +29,8 @@ Buku Umum adalah bahan bacaan yang berkaitan dengan perkara-perkara umum dan bol
 | 2 | Masalah dalam Penerbitan Buku Karya Asli |  <a href="./materials/masalah.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 | 3 | Keperluan Penerbitan |  <a href="./materials/keperluan.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 | 4 | Penghantaran Manuskrip |  <a href="./materials/hantar.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 5 | Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan |  <a href="./materials/buku" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 6 | Contoh Bahan Rujukan Karya Asli |  <a href="./materials/rujukan" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 5 | Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan |  <a href="./materials/buku.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 6 | Contoh Bahan Rujukan Karya Asli |  <a href="./materials/rujukan.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 ## Ciri-ciri Buku Karya Asli yang baik
 ### 1. Bilangan penulis
