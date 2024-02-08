@@ -21,19 +21,19 @@
 ### 1. Bilangan penulis
 Buku karya asli yang baik sebaiknya ditulis oleh tidak lebih daripada **tiga orang** penulis. Ini kerana jika terlalu ramai penulis, gaya penulisan dan sudut pandang mungkin tidak konsisten dan menyebabkan kekeliruan pembaca. Jika buku karya asli itu hendak dipertandingkan untuk **anugerah buku**, bilangan penulis juga perlu diambil kira kerana sesetengah anugerah buku mempunyai syarat tertentu mengenai bilangan penulis.
 
-### Bahasa
+### 2. Bahasa
 Buku karya asli yang baik menggunakan bahasa yang **mudah difahami** oleh pembaca sasaran. Bahasa yang digunakan juga perlu **betul dari aspek tatabahasanya**, termasuk ejaan, tanda baca, ayat pasif, dan sebagainya. Kesalahan tatabahasa boleh menjejaskan kredibiliti penulis dan mengurangkan minat pembaca. 
 
-### Reka letak
+### 3. Reka letak
 Buku karya asli yang baik mempunyai reka letak atau *typesetting* yang **menarik dan tidak membosankan**. Reka letak buku merangkumi saiz huruf, jarak antara baris, margin, penjajaran, dan sebagainya. Reka letak yang baik boleh meningkatkan keselesaan dan kepuasan pembaca, serta menonjolkan isi kandungan buku. Reka letak yang buruk pula boleh menyebabkan pembaca cepat letih, bosan, atau hilang fokus. Oleh itu, penulis perlu memilih reka letak yang sesuai dengan genre, tema, dan gaya buku karya asli mereka.
 
-### Bilangan halaman
+### 4. Bilangan halaman
 Bilangan buku karya asli adalah **sekurang-kurangnya 100 halaman**. Ini adalah ukuran minimum yang biasanya digunakan untuk mengenal pasti buku karya asli yang mempunyai isi kandungan yang mencukupi dan mendalam. Panjang buku karya asli juga boleh menunjukkan usaha dan komitmen penulis dalam menulis buku tersebut.
 
-### Bilangan bab
+### 5. Bilangan bab
 Bilangan bab dalam buku karya asli adalah **sekurang-kurangnya lima bab**. Ini adalah jumlah minimum yang biasanya digunakan untuk membina rangka kerja dan organisasi buku karya asli. Bilangan bab yang ganjil, seperti **lima, tujuh, atau sembilan**, adalah lebih disukai kerana ia memberi kesan keseimbangan dan simetri kepada buku karya asli.
 
-### Judul
+### 6. Judul
 Buku karya asli yang baik mempunyai judul buku yang **tidak terlalu panjang**. Judul buku adalah elemen pertama yang menarik perhatian pembaca. Judul yang pendek dan padat adalah lebih menarik dan mudah diingati. Judul buku karya asli biasanya tidak melebihi **lima hingga tujuh patah perkataan**.
 
 ## Buku yang dihasilkan oleh Mohd Shahizan dan rakan-rakan
