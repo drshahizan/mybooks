@@ -8,12 +8,6 @@
 
 # Buku
 
-
-### Kandungan:
-- [Buku](#about-us)
-- [Bahan rujukan karya asli](#-course-high-performance-data-processing)
-    - [Contents:](#contents)
-
 ## Pengenalan
 **Buku Karya Asli** adalah buku yang menunjukkan kreativiti dan originaliti penulis dalam menyampaikan idea, ilmu, atau pengalaman mereka. Buku Karya Asli tidak menyalin atau meniru karya orang lain tanpa memberi rujukan yang jelas. Buku Karya Asli juga tidak merupakan hasil terjemahan daripada bahasa lain, melainkan ia adalah karya asal penulis dalam bahasa tersebut. Buku Karya Asli biasanya mempunyai hak cipta yang terpelihara oleh penulis atau penerbit.
 
