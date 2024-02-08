@@ -116,10 +116,10 @@ Persekitaran web menyediakan pelbagai teknologi serta komponen bagi tujuan pemba
 | :-----: |------ | ------ | :-----: | 
 | 1 | Umum | Jom tulis buku karya asli |  <a href="https://padlet.com/rohayanti1/fc-publication-2024-91kec5fiwok3l7ft/wish/2863508739" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 | 2 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Hakcipta |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EfYX7X1Wr39Dhxz7NAe8KYoBdSXRKapTOGzsLtYYNOKNRQ?e=rxq5oY" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 3 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Prilim dan Cover |  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 4 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Prakata|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 5 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Blurb buku|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 6 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Sinopsis|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 3 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Prilim dan Cover |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EQZrzACECaVMp4b_a3qyLYYBA9XMOGhziPW28U-jQN5oMQ?e=Dvg20V" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 4 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Prakata|  <a href="https://liveutm-my.sharepoint.com/:w:/g/personal/shahizan_live_utm_my/EWzSBnmc2HpPtnpj2MR2ircBkdGgsHG-qtJcGeeZNm-Hew?e=Podp2Z" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 5 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Blurb buku|  <a href="https://liveutm-my.sharepoint.com/:w:/g/personal/shahizan_live_utm_my/EUGV5SefOBxGiRigagUeFyMB40hqwGTph1DZ1HWNdTPN7g?e=JkL7Zx" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 6 | Pengaturcaraan Web ASP. NET Menggunakan VB dan C#  | Sinopsis|  <a href="https://liveutm-my.sharepoint.com/:w:/g/personal/shahizan_live_utm_my/Eb4zuzTRE5tJsH61gWqJogoBGvkutRzoUBAA5K1IYiWUYw?e=oYPi69" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 | 7 | Pengkomputeran Selari  | Sinopsis|  <a href="./materials/assignment/submission/CodeX/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 
