@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/mybooks/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/mybooks?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2mybooks&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-<p align="center">
+<p align="left">
 <img src="/images/coaching19Mac.jpeg"  height="500" />
 </p>
 
