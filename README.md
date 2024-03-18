@@ -5,12 +5,11 @@
 <a href="https://github.com/drshahizan/mybooks/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/mybooks?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2mybooks&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
-# Buku
-
 <p align="center">
 <img src="/images/coaching19Mac.jpeg"  height="500" />
 </p>
+
+# Buku Karya Asli
 
 ## Pengenalan
 **Buku Karya Asli** adalah buku yang menunjukkan kreativiti dan originaliti penulis dalam menyampaikan idea, ilmu, atau pengalaman mereka. Buku Karya Asli tidak menyalin atau meniru karya orang lain tanpa memberi rujukan yang jelas. Buku Karya Asli juga tidak merupakan hasil terjemahan daripada bahasa lain, melainkan ia adalah karya asal penulis dalam bahasa tersebut. Buku Karya Asli biasanya mempunyai hak cipta yang terpelihara oleh penulis atau penerbit.
